@@ -5,10 +5,4 @@ Adjunto un poco de info del proyecto:
 
 Para ingresar a Mongocompass:
 
-User: numen@admin
-User name: numen
-Password: AcademiaNumen
-Cluster: Cluster-Numen
-Nombre db: proyecto
-Nombre de colección: artistas
-IP: access from anywhere
+Info en archivo .env
